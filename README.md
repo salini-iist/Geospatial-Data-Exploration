@@ -10,6 +10,5 @@ a separate data layer in the same provided data cube
 b. A visual RGB image of one date
 c. Distribution (histogram) of NDVI pixels
 d. Time series of NDVI averaged over the AOI
-# 2. A brief description of your interpretation of the spatial distribution and
-evolution of the NDVI/vegetation
+# 2. A brief description of your interpretation of the spatial distribution and evolution of the NDVI/vegetation
 # 3. A visualization of NDVI (colormap here) clipped to the provided sub-AOI
